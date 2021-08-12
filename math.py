@@ -1,13 +1,13 @@
 # add implementation
 def add(x,y):
     pass
-# substract implentaed
+
 def subtract(x,y):
-    return x-y   #on master branch
-#multiply implementation
+    return x-y   
+
 def multiply(x,y):
-    return x*y #on Bug456
+    pass
+
 def divide(x,y):
     pass
-def square(x):
-	pass
+
